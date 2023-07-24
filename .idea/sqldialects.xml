@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task1_select.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task2_distinct.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task5_in_clouse.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day02/task1_review.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/practice/task1.sql" dialect="GenericSQL" />
   </component>
 </project>
